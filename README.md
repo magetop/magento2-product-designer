@@ -45,7 +45,7 @@
 
 - Extension details : https://www.magetop.com/magento-2-product-designer-extension.html
 - Design Page Demo : https://demo-product-designer.magetop.com/t-shirt.html
-- Backend demo : https://demo-product-designer.magetop.com/admin/
+- Backend demo : https://demo-product-designer.magetop.com/admin
 
 ## Support & Contact info
 
