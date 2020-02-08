@@ -9,43 +9,60 @@
 - Powerful design tool on your site
 - Libraries clipart and Design template
 
-## HIGHLY COMPATIBLE WITH EVERY PRODUCTS
+## For Your Customers
 
-- T-Shirts, polo shirts, dress shirts, hoodies, sweatshirts & jackets
-- Desk calendars, miniature calendars, wall calendars…
-- Phone case, tablet cases, laptop
-- Buttons, flying discs, golf…
-- Coffee mugs, travel mugs, sport & water bottles, plastic cups…
-- Tote bags, backpacks & drawstring bags, gift bags…
-- Baseball caps, camo hats, color transfer caps, constructed caps, trucker hats.
-- Posters, signs, yard signs, car magnets, window decals, foam board signs, bumper stickers
-- Customer can purchase the product from various vendors / sellers at once
-- business card, food menu, canvas, holiday cards…
-- USB flash drives, mouse pads, speakers, headphones & earbuds
-- Custom Adult, Slim Straps…
-- Water bottles, koozies, crystal glassware, vitrified porcelain bowls…
+- Format output design, add photo, add text/paragraph.
+- Swap product color, multiple product sides.
+- Transforming tool, preview customized design.
+- The watermark of copyright, save customized design preview.
+- Share customized design, support SVG artwork.
+- Text option, graphics option, upload and crop photo from PC.
+- Cliparts management, fonts management, text quotes management, shapes management.
+- Layer objects pricing, set up the cost for text and photo.
+- Support multi-language/multi-store.
+- Editable product design pattern, output formats in PNG, PDF.
+- Overlay image with multi design area.
+- Get photo from Facebook & Instagram.
+- Save customized design to my account.
+- Curved text plugin, QR-Code plugin.
+- Output format are SVG, PDF, PNG in high resolution.
+- Optimization for higher speed and SEO(3x faster).
+- Included background pattern management.
+- Included mask layer management.
+- Included design templates management.
+- Advanced curved text plugin.
+- Output format are SVG, PDF, PNG in high resolution.
+- User can upload vectors(.AI,.PDF,.PSD,.EPS) & auto convert into high resolution PNG.
 
-## ONLINE DESIGNER SOFTWARE
+## For The Site Owners
 
-- Design Studio is HTML5/Javascript based and works very fast.
-- Great clipart store with 10000+ file vectors and 1000+ design template.
-- Easy to use on all devices and Smart layout on mobile.
-- Order management easy and clear. Output with PNG (300 DPI), SVG, PDF (vectors with layers)
-- Supported multi languages and easy add new language.
-- We support a lot of powerful add-ons.
+- Easily create and manage product design items .
+- Manage, add new, update, delete (image categories, images, fonts, dashboard).
+- Quick see report all Online Product Data like product design items, top product design items, product design item orders.
 
-## STORE CLIPART & DESIGN TEMPLATE
+## For The Developer
 
-- Your customers can select a design and customize it in our Design Studio to create the perfect custom graphics.
-- Your customers easy find and choose idea with libraries design template. Customers only change text, photo and complete order.
-- Updated every days by talent designer on over the world.
-- Free use cliparts and design template in 30 days.
+- The Module source code is open for any customization.
+- Standard Module structure as verified on the Magento market.
+- Clear javascript and CSS/HTML with bootstrap.
+
+## For Magento Platform
+
+- Support for Multiple Languages & Currencies.
+- Easy manage products, orders, mails, reviews ...
+- Integrated Payment Gateway.
+
+## Benefit for your Customers
+
+- This is an Online Product Designer Module so a customer can free customize products on the website and place the order to admin print with high quantity.
+- A customer can custom with multi products and multi sides on the website. With library images, fonts colors, the customer will have a lot of ideas to make his personal design. He can also upload images from his computer to make personal design if he wants.
+- Online Product Designer Module has a responsive layout so it helps the customer can customize on all devices. It makes more experience for the customer and suitable for your store. 
 
 ## More features & Demo
 
-- Extension details : https://www.magetop.com/magento-2-product-designer-extension.html
-- Design Page Demo : https://demo-product-designer.magetop.com/nike-t-shirt.html
-- Backend demo : https://demo-product-designer.magetop.com/admin
+- Extension Details : https://www.magetop.com/magento-2-product-designer-extension.html
+- Designs Page Demo : https://demo-product-designer.magetop.com
+- Backend Demo : https://demo-product-designer.magetop.com/admin
 
 ## Support & Contact info
 
