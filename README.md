@@ -60,9 +60,9 @@
 
 ## More features & demo
 
-- Extension Details : https://www.magetop.com/magento-2-product-designer-extension.html
-- Designs Page Demo : https://demo-product-designer.magetop.com
-- Backend Demo : https://demo-product-designer.magetop.com/admin
+- Extension details : https://www.magetop.com/magento-2-product-designer-extension.html
+- Frontend demo : https://demo-product-designer.magetop.com
+- Backend demo : https://demo-product-designer.magetop.com/admin
 
 ## Support & contact info
 
