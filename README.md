@@ -1,4 +1,4 @@
-# Magento 2 Product Designer Extension by MageTop
+# Magento 2 Product Designer Extension by Magetop
 
 **Magento 2 Product Designer Extension** by Magetop allows you to display an awesome Product Designer on your website via short-code anywhere in page, add unlimited clip art and display on designer and easy to use on Product. Also text can be use with fancy font family, font size and color.
 
@@ -58,13 +58,13 @@
 - A customer can custom with multi products and multi sides on the website. With library images, fonts colors, the customer will have a lot of ideas to make his personal design. He can also upload images from his computer to make personal design if he wants.
 - Online Product Designer Module has a responsive layout so it helps the customer can customize on all devices. It makes more experience for the customer and suitable for your store. 
 
-## More features & Demo
+## More features & demo
 
 - Extension Details : https://www.magetop.com/magento-2-product-designer-extension.html
 - Designs Page Demo : https://demo-product-designer.magetop.com
 - Backend Demo : https://demo-product-designer.magetop.com/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
